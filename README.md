@@ -1,5 +1,5 @@
 # Managing Python Dependencies Course
-> This course was purchased from [https://realpython.com/courses/managing-python-dependencies/](https://realpython.com).
+> This course was purchased from [https://realpython.com](https://realpython.com/courses/managing-python-dependencies/).
 
 [![PyPI License][license-image]][license-url]
 
