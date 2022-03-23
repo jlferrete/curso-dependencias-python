@@ -1,7 +1,7 @@
 # Managing Python Dependencies Course
-> This course was purchased from [https://realpython.com/courses/managing-python-dependencies/](https://realpython.com/courses/managing-python-dependencies/) and I found it very interesting. I have learned a lot from it.
+> This course was purchased from [https://realpython.com/courses/managing-python-dependencies/](https://realpython.com) and I found it very interesting. I have learned a lot from it.
 
-[!PyPI-License](https://img.shields.io/pypi/l/curso)
+[PyPI-License](https://img.shields.io/pypi/l/curso)
 
 This course is for Python developers wanting to break through to the next phase of developing code by becoming more efficient, productive, and skilled using Python’s rich library ecosystem.
 
