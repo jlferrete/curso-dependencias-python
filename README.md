@@ -34,7 +34,7 @@ Jose Luis Ferrete – [@jlferrete](https://twitter.com/jlferrete) – contacto@j
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/jlferrete/curso-dependencias-python](https://github.com/jlferrete)
+[https://github.com/jlferrete](https://github.com/jlferrete/curso-dependencias-python)
 
 ## Contributing
 
