@@ -1,7 +1,7 @@
 # Managing Python Dependencies Course
-> This course was purchased from [https://realpython.com/courses/managing-python-dependencies/](https://realpython.com) and I found it very interesting. I have learned a lot from it.
+> This course was purchased from [https://realpython.com/courses/managing-python-dependencies/](https://realpython.com).
 
-[PyPI-License](https://img.shields.io/pypi/l/curso)
+[![PyPI License][license-image]][license-url]
 
 This course is for Python developers wanting to break through to the next phase of developing code by becoming more efficient, productive, and skilled using Python’s rich library ecosystem.
 
@@ -49,4 +49,5 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [npm-url]: https://npmjs.org/package/datadog-metrics
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [wiki]: https://github.com/yourname/yourproject/wiki
-[PyPI-License](https://img.shields.io/pypi/l/curso)
+[license-image]: https://img.shields.io/pypi/l/curso
+[license-url]: https://choosealicense.com/licenses/mit/
